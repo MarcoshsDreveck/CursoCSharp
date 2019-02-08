@@ -1,0 +1,4 @@
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\Console.csprojAssemblyReference.cache
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\Console.csproj.CoreCompileInputs.cache
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\Console.AssemblyInfoInputs.cache
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\Console.AssemblyInfo.cs

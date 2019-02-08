@@ -1,0 +1,11 @@
+C:\pcode\CursoCSharp\CursoCSharp\Console\bin\Debug\netcoreapp2.2\CSharpConsole.deps.json
+C:\pcode\CursoCSharp\CursoCSharp\Console\bin\Debug\netcoreapp2.2\CSharpConsole.runtimeconfig.json
+C:\pcode\CursoCSharp\CursoCSharp\Console\bin\Debug\netcoreapp2.2\CSharpConsole.runtimeconfig.dev.json
+C:\pcode\CursoCSharp\CursoCSharp\Console\bin\Debug\netcoreapp2.2\CSharpConsole.dll
+C:\pcode\CursoCSharp\CursoCSharp\Console\bin\Debug\netcoreapp2.2\CSharpConsole.pdb
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.csproj.CoreCompileInputs.cache
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.AssemblyInfoInputs.cache
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.AssemblyInfo.cs
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.dll
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.pdb
+C:\pcode\CursoCSharp\CursoCSharp\Console\obj\Debug\netcoreapp2.2\CSharpConsole.csprojAssemblyReference.cache
